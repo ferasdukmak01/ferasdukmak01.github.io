@@ -6,7 +6,7 @@
     <title>My Portfolio</title>
 </head>
 <body>
-    <h1>Welcome to My Portfolio</h1>
+    <h1>Active Directory HomeLab</h1>
     <p>Here is a screenshot of my lab:</p>
     <img src="https://i.imgur.com/nWZPIb2.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
 </body>
