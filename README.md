@@ -19,6 +19,8 @@
     <img src="https://i.imgur.com/rFUSyE5.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     <p> On the Deployment Configuration page, select the “Add a new forest" radio button, then type superfriends.local in the Root Domain Name field and click Next to continue.:</p>
     <img src="https://i.imgur.com/AgdZ5sV.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
+     <p> The Active Directory installer will now perform a prerequisite check to ensure that Active Directory Domain Services can be installed and this server can be promoted to a Domain Controller. There will be a number of warnings that can be ignored. You should see a green checkmark and a message stating, "All prerequisite checks passed successfully".:</p>
+    <img src="https://i.imgur.com/gulED90.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     
 </body>
 </html>
