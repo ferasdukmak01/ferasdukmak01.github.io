@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Active Directory HomeLab</h1>
-    <p>Here is a screenshot of my lab:</p>
+    <p> On the taskbar, click the Windows Start icon, then click the Server Manager icon to open the Windows Server Manager. Allow Server Manager time to load fully (~30 seconds).:</p>
     <img src="https://i.imgur.com/nWZPIb2.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
 </body>
 </html>
