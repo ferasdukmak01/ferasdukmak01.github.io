@@ -13,8 +13,10 @@
     <img src="https://i.imgur.com/t1GQeQv.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     <p> On the Server Roles page, click the Active Directory Domain Services checkbox. Add Features to include the Features required for the Active Directory Domain Services role.:</p>
     <img src="https://i.imgur.com/vR21luf.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
-    <p> On the Server Roles page, click Next to continue. On the Features page, click Next to continue. On the AD DS page, click Next to continue. On the Confirm Installation Selections page, click Install to continue. Wait a few minutes for Active Directory Domain Services to be installed. When the installation is complete, you will see a note indicating that there are additional configuration tasks required to promote this server to a domain controller.:</p>
+    <p> Wait a few minutes for Active Directory Domain Services to be installed. When the installation is complete, you will see a note indicating that there are additional configuration tasks required to promote this server to a domain controller.:</p>
     <img src="https://i.imgur.com/LaVThXR.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
+    <p> In the upper-right corner, click the Notifications menu, then click the Promote this server to a domain controller link to open the Active Directory Domain Services Configuration Wizard.:</p>
+    <img src="https://i.imgur.com/rFUSyE5.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     
     
 </body>
