@@ -11,5 +11,7 @@
     <img src="https://i.imgur.com/nWZPIb2.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     <p> In the Server Manager, click the Add Roles and Features link to open the Add Roles and Features Wizard.:</p>
     <img src="https://i.imgur.com/t1GQeQv.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
+    <p> On the Server Roles page, click the Active Directory Domain Services checkbox. Add Features to include the Features required for the Active Directory Domain Services role.:</p>
+    <img src="https://i.imgur.com/vR21luf.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
 </body>
 </html>
