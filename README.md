@@ -17,7 +17,8 @@
     <img src="https://i.imgur.com/LaVThXR.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     <p> In the upper-right corner, click the Notifications menu, then click the Promote this server to a domain controller link to open the Active Directory Domain Services Configuration Wizard.:</p>
     <img src="https://i.imgur.com/rFUSyE5.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
-    
+    <p> On the Deployment Configuration page, select the “Add a new forest" radio button, then type superfriends.local in the Root Domain Name field and click Next to continue.:</p>
+    <img src="https://i.imgur.com/AgdZ5sV.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     
 </body>
 </html>
