@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>In this exercise, we will create two domains (and two domain controllers) - one using the Server Manager GUI, and one using PowerShell. We will then create users and groups in each domain using the Active Directory Users and Computers GUI and PowerShell.</title>
+    In this exercise, we will create two domains (and two domain controllers) - one using the Server Manager GUI, and one using PowerShell. We will then create users and groups in each domain using the Active Directory Users and Computers GUI and PowerShell.
 </head>
 <body>
     <h1>Active Directory HomeLab</h1>
