@@ -6,7 +6,7 @@
     In this exercise, we will create two domains (and two domain controllers) - one using the Server Manager GUI, and one using PowerShell. We will then create users and groups in each domain using the Active Directory Users and Computers GUI and PowerShell.
 </head>
 <body>
-    <h1>Active Directory HomeLab</h1>
+    <h1>Active Directory Lab</h1>
     <p> On the taskbar, click the Windows Start icon, then click the Server Manager icon to open the Windows Server Manager. Allow Server Manager time to load fully (~30 seconds).:</p>
     <img src="https://i.imgur.com/nWZPIb2.png" alt="Lab Screenshot" style="max-width: 100%; height: auto;">
     <p> In the Server Manager, click the Add Roles and Features link to open the Add Roles and Features Wizard.:</p>
